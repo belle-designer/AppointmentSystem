@@ -1,16 +1,22 @@
-// src/data/appointments.js
-
 export const hardcodedAppointments = [
   {
     id: 1,
     patientEmail: "jane@example.com",
-    doctorEmail: "sarah@example.com",
+    doctorEmail: "john@example.com",
     date: "2026-02-01",
-    time: "11:00 AM",
+    time: "09:00 AM",
     status: "Pending",
   },
   {
-    id: 2,
+    id: 7,
+    patientEmail: "jane@example.com",
+    doctorEmail: "sarah@example.com",
+    date: "2026-02-01",
+    time: "09:30 AM",
+    status: "Pending",
+  },
+  {
+    id: 3,
     patientEmail: "mike@example.com",
     doctorEmail: "john@example.com",
     date: "2025-12-12",
@@ -18,7 +24,7 @@ export const hardcodedAppointments = [
     status: "Pending",
   },
   {
-    id: 3,
+    id: 4,
     patientEmail: "mike@example.com",
     doctorEmail: "sarah@example.com",
     date: "2025-12-14",
@@ -26,15 +32,7 @@ export const hardcodedAppointments = [
     status: "Declined",
   },
   {
-    id: 4,
-    patientEmail: "jane@example.com",
-    doctorEmail: "john@example.com",
-    date: "2025-12-15",
-    time: "01:00 PM",
-    status: "Confirmed",
-  },
-  {
-    id: 5,
+    id: 6,
     patientEmail: "mike@example.com",
     doctorEmail: "john@example.com",
     date: "2025-12-16",
@@ -42,23 +40,15 @@ export const hardcodedAppointments = [
     status: "Cancelled",
   },
   {
-    id: 6,
+    id: 8,
     patientEmail: "mike@example.com",
     doctorEmail: "sarah@example.com",
     date: "2025-12-18",
     time: "10:00 AM",
-    status: "Confirmed",
+    status: "Confirm",
   },
   {
-    id: 7,
-    patientEmail: "jane@example.com",
-    doctorEmail: "john@example.com",
-    date: "2025-12-19",
-    time: "11:30 AM",
-    status: "Declined",
-  },
-  {
-    id: 8,
+    id: 10,
     patientEmail: "mike@example.com",
     doctorEmail: "john@example.com",
     date: "2025-12-20",
