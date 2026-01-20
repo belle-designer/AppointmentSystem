@@ -1,4 +1,4 @@
-export const patientHistories = [  
+export const patientHistories = [
   {
     patientEmail: "mike@example.com",
     records: [
