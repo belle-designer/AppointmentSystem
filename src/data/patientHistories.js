@@ -25,7 +25,7 @@ export const patientHistories = [
             frequency: 2
           }
         ],
-        doctorEmail: "john@example.com",
+        doctorEmail: "sarah@example.com",
       },
     ],
   },
