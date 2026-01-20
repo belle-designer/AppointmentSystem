@@ -5,7 +5,7 @@ export const hardcodedAppointments = [
     id: 1,
     patientEmail: "jane@example.com",
     doctorEmail: "sarah@example.com",
-    date: "2026-12-13",
+    date: "2026-02-01",
     time: "11:00 AM",
     status: "Pending",
   },
@@ -31,7 +31,7 @@ export const hardcodedAppointments = [
     doctorEmail: "john@example.com",
     date: "2025-12-15",
     time: "01:00 PM",
-    status: "Confirm",
+    status: "Confirmed",
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ export const hardcodedAppointments = [
     doctorEmail: "sarah@example.com",
     date: "2025-12-18",
     time: "10:00 AM",
-    status: "Confirm",
+    status: "Confirmed",
   },
   {
     id: 7,
