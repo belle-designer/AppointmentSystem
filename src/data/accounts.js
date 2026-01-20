@@ -18,7 +18,7 @@ export const doctors = [
 export const patients = [
   {
     id: 1,
-    name: "Jane Doe",
+    name: "Jane Trinidad",
     email: "jane@example.com",
     password: "Patient123",
     age: 30

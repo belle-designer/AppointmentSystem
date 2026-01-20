@@ -1,18 +1,10 @@
 export const hardcodedAppointments = [
   {
-    id: 1,
-    patientEmail: "jane@example.com",
-    doctorEmail: "john@example.com",
-    date: "2026-02-01",
-    time: "09:00 AM",
-    status: "Pending",
-  },
-  {
     id: 7,
     patientEmail: "jane@example.com",
     doctorEmail: "sarah@example.com",
     date: "2026-02-01",
-    time: "09:30 AM",
+    time: "09:00 AM",
     status: "Pending",
   },
   {
